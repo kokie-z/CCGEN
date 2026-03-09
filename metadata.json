@@ -1,0 +1,6 @@
+{
+  "name": "CCGEN",
+  "description": "An application to generate images of consistent characters and backgrounds for cartoon series using Gemini API's Imagen model. Users can specify character details, art style, background themes, and scene descriptions to create unique artwork.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
